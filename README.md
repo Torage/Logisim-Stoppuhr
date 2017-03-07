@@ -1,1 +1,1 @@
-# Logisim-Stoppuhr
+# Logisim-Ampelschaltung mit Taster
